@@ -8,9 +8,9 @@ Este es el repositorio oficial del **Grupo 3** para el curso **Reconocimiento de
   
 | Foto  | Descripción |
 |-------|------------|
-|<image src="" width="400px" height="270px">| **Rodrigo Gonzales**<br>correo1@upch.pe<br> <p align="justify"> Descripcion 1 </p>|
-|<image src="" width="400px" height="270px">| **Cristina Orihuela**<br>correo2@upch.pe<br> <p align="justify"> Descripcion 2 </p>|
-|<image src="" width="400px" height="270px">| **Gabriel Sanchez**<br>gabriel.marcos@upch.pe<br> <p align="justify"> Descripcion 3 </p>|
+|<image src="" width="200px" height="270px">| **Rodrigo Gonzales**<br>correo1@upch.pe<br> <p align="justify"> Descripcion 1 </p>|
+|<image src="" width="200px" height="270px">| **Cristina Orihuela**<br>correo2@upch.pe<br> <p align="justify"> Descripcion 2 </p>|
+|<image src="" width="200px" height="270px">| **Gabriel Sanchez**<br>gabriel.marcos@upch.pe<br> <p align="justify"> Descripcion 3 </p>|
 
 ## Docentes
 
